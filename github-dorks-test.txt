@@ -1,4 +1,4 @@
+import github3 as github
 filename:.npmrc _auth
 filename:.dockercfg auth
 extension:md
-import github3 as github
